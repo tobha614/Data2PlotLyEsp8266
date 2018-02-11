@@ -1,8 +1,8 @@
-#define ssid       "SSID" // your ssid
-#define pass       "password" // your password
-#define userName   "username"
-#define APIKey     "apikey"
-#define fileName   "Climate data simple" // "Climate data"
+#define ssid       "SSID"       // your ssid
+#define pass       "password"   // your password
+#define userName   "username"   // your username
+#define APIKey     "apikey"     // your api key
+#define fileName   "plotname"   // name of plot
 #define fileopt    "overwrite"
 #define nTraces    2
 #define maxpoints  "250000"
